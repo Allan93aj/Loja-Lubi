@@ -1,3 +1,3 @@
 # Loja-Lubi
 
-ecommerce de papelaria
+ecommerce de papelaria desenvolvida na plataforma ecommerce da Loja Integrada
